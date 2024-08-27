@@ -1,0 +1,26 @@
+
+ h1 {
+    color: brown;
+    font-size: 40px;
+    font-weight: 450;
+    text-align: center;
+    background-color: cadetblue;
+ }
+ #LastText {
+    color:coral;
+    opacity: 0.9;
+ }
+ body {
+    background-image: url(../images/dogo2.jpg) ;
+    background-size: cover;
+    background-attachment: scroll;
+    background-position: center;
+ }
+ img {
+    border-width: 3px;
+    border-style: dotted;
+    border-color:blueviolet;
+    border-bottom: 5px solid blue;
+    border-radius: 50% 50% 50% 10%;
+    box-shadow: 5px 5px 10px lightskyblue;
+}
